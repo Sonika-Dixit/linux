@@ -1,0 +1,7 @@
+cat command is used for various purpose in linux. It is a file command.
+uses are :
+1.[A[C[C[C[C[C[C[C[C[C
+[C[Cused to create a file as- "cat >filename" only one file can be created at one time. after this you have to write your content then press "CNT+D".
+2.used to display content of file as- "cat filename"
+3.used to concatinate files as- "cat file1 file2 file3". It will directly show the content of all files according to the order you mention from left to right just after execution of command. It will not change the content of any file.
+4.used to add data of one file in another file or you can say append operation could be performed by it as- "cat >>file1[C[C[C   file1". It will change first file that is file by adding data of file1 into file as per the ordermentioned in the command.
