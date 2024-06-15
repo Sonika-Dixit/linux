@@ -1,0 +1,22 @@
+head command is used to display content of a file from top of file.
+it shows first 10 records by deffault.
+syntax:
+head file.txt
+head -n no_of_lines file.txt
+
+
+tail command is used to diplay content of file from bottom of file.
+syntax:
+tail file.txt       (by deffault 10 lines)
+tail -n no_of_lines file.txt
+
+more command is used to diplay content of file page by page and it always moves in forward direction.
+syntax:
+more file.txt
+
+
+tail command is birectional and do same function as more.
+to move in forward direction use spacebar and use enter to move line by line.
+use up arrow key to move in backward direction.
+
+| operator passes result of first command to second i.e; more file.txt|head
